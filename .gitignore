@@ -1,0 +1,5 @@
+*.pyc
+*.log
+*.zip
+*.7z
+/log/*.log
